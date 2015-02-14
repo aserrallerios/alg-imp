@@ -6,8 +6,9 @@ Algorithm implementations in different languages. This isn't meant to be exhaust
 |---|---|
 |MergeSort   |Javascript   |
 |QuickSort   |Python   |
+|Graph Minimum Cut   |Clojure   |
 
 ## TODO
-* Testing for each algorithm
-* Multiple strategies for each
+* Add testing for each algorithm
+* Multiple strategies for each algorithm
 * Cross language benchmarking
