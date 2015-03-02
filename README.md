@@ -8,6 +8,7 @@ Algorithm implementations in different languages. This isn't meant to be exhaust
 |QuickSort   |Python   |   |
 |Graph Minimum Cut   |Clojure   |   |
 |Graph Strong Components   |Scala   |Full immutable and tailrec implementation    |
+|Graph Shortest Path   |Go   |   |
 
 ## TODO
 * Add testing for each algorithm
